@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Divyansh Tripathi a Physics Undergraduate 
-- 👀 I’m interested in High Energy Astrophysics and Particle Physics
-- 🌱 I’m currently learning Astrophysics , Machine Learning and Data Science
+- 👀 I’m interested in Theoretical High Energy Astrophysics, Last Stages of Stellar Evolution and Scientific Computing.
+- 🌱 I’m currently learning Theoretical Physics and Astrophysics,Data Analysis and Scientific Computing.
 - 💞️ I’m looking to collaborate on anything related to my learning goals and interest
 - 📫 You can reach me at divyanshtripathi151@gmail.com
 
